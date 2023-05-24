@@ -1,6 +1,5 @@
 import React from 'react'
 import './Project.css'
-import loginpage from '../../assets/project/loginpage.jpg'
 import foodapp from '../../assets/project/foodapp.jpg'
 import blogapp from '../../assets/project/blogapp.jpg'
 import weatherapp from '../../assets/project/weatherapp.jpg'

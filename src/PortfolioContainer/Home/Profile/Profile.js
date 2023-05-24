@@ -8,13 +8,10 @@ export default function Profile() {
                 <div className="profile-details">
                     <div className="colz">
                         <div className="colz-icon">
-                            <a href="https://twitter.com/iamsankarK">
-                                <i className='fa fa-twitter'></i>
-                            </a>
-                            <a href="https://github.com/SANKAR2167">
+                            <a href="https://github.com/SANKAR2167" target='_blank'>
                                 <i className='fa fa-github'></i>
                             </a>
-                            <a href="https://www.linkedin.com/in/sankar-kulandaivel/">
+                            <a href="https://www.linkedin.com/in/sankar-kulandaivel/" target='_blank'>
                                 <i className='fa fa-linkedin'></i>
                             </a>
                         </div>

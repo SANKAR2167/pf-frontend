@@ -5,6 +5,7 @@ import Skill from './PortfolioContainer/Skills/Skill';
 import Project from './PortfolioContainer/Projects/Project';
 import Navbar from './PortfolioContainer/Navbar/Navbar'
 import Footer from './PortfolioContainer/Footer/Footer';
+import Qualification from './PortfolioContainer/Qualification/Qualification';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Home/>  
       <AboutMe/>
       <Skill/>
+      <Qualification/>
       <Project/>
       <Footer/>
     </div>

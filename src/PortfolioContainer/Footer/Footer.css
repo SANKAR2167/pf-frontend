@@ -31,7 +31,8 @@ li{
 
 .social{
     display: flex;
-    justify-content: space-evenly;
+    gap: 2rem;
+    justify-content: space-between;
 }
 
 .fa{
@@ -40,23 +41,8 @@ li{
     padding-bottom: 10px;
 }
 
-.btn-footer{
-    border-radius: 25px;
-    border: none;
+.cont-head{
+    color: rgb(255, 234, 0);
     font-size: 20px;
-    padding: 10px;
-    background-color: orange;
-}
-
-.btn-footer:hover{
-    background-color: white;
-}
-
-.btn-footer a{
-    text-decoration: none;
-    color: white;
-}
-
-.btn-footer a:hover{
-    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
