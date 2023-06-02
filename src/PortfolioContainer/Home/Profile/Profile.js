@@ -36,8 +36,8 @@ export default function Profile() {
                     </div>
                     <div className="profile-options">
                         <button className='btn primary-btn'>
-                            <a href="mailto:snakarkulandaivel@gmail.com">
-                            Contact Me</a>
+                            <a href="https://sankar-resume.netlify.app/" target='_blank'>
+                            View Resume</a>
                         </button>
                         <a href="Sankar.pdf" download="Sankar"> <button className='btn highlighted-btn'>Get Resume</button></a>
                     </div>
