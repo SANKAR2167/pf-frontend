@@ -1,0 +1,23 @@
+.certification {
+    margin-top: 25px;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.certification-title {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+}
+
+/* App.css */
+.responsive-image {
+    width: 800px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 25px;
+    padding-bottom: 50px;
+  }
+  

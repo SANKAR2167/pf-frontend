@@ -23,7 +23,8 @@ export default function Navbar() {
             <Link className='menu' smooth to='#aboutme'>About Me</Link>
             <Link className='menu' smooth to='#skills'>Skills</Link>
             <Link className='menu' smooth to='#qualification'>Qualifications</Link>
-            <Link className='menu' smooth to='#project'>Project</Link>
+            <Link className='menu' smooth to='#certification'>Certifications</Link>
+            <Link className='menu' smooth to='#project'>Projects</Link>
           </div>
         }
         <button className='toggle' onClick={handleShow}><MenuIcon /></button>

@@ -6,18 +6,20 @@ import Project from './PortfolioContainer/Projects/Project';
 import Navbar from './PortfolioContainer/Navbar/Navbar'
 import Footer from './PortfolioContainer/Footer/Footer';
 import Qualification from './PortfolioContainer/Qualification/Qualification';
+import CertificateCarousel from './PortfolioContainer/Certification/CertificateCarousel';
 
 
 function App() {
   return (
     <div className="App">
-      <Navbar/>
-      <Home/>  
-      <AboutMe/>
-      <Skill/>
-      <Qualification/>
-      <Project/>
-      <Footer/>
+      <Navbar />
+      <Home />
+      <AboutMe />
+      <Skill />
+      <Qualification />
+      <CertificateCarousel />
+      <Project />
+      <Footer />
     </div>
   );
 }

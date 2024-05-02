@@ -5,7 +5,7 @@ import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
 export default function Qualification() {
   return (
     <section id='qualification' className='qualifiaction'>
-      <h2 className='qualification-title'>Qualification</h2>
+      <h2 className='qualification-title'>Qualifications</h2>
       <div className="qualification-container">
         <div className="qual-cont">
           <span className="qualification-year">

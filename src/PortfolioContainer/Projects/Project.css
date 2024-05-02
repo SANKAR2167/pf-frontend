@@ -8,6 +8,10 @@
     margin-top: 15px;
 }
 
+h2{
+    font-weight: bold;
+}
+
 .project-container{
     display: flex;
     flex-wrap: wrap;

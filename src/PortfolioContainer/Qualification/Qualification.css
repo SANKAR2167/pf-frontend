@@ -5,6 +5,10 @@
     text-align: center;
 }
 
+h2{
+    font-weight: bold;
+}
+
 .qual-cont {
     display: flex;
     flex-direction: column;

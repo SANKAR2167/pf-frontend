@@ -1,7 +1,7 @@
 import React from 'react'
 import './Project.css'
 import foodapp from '../../assets/project/foodapp.jpg'
-import url from '../../assets/project/url.png'
+import blog from '../../assets/project/blogapp.jpg'
 import weatherapp from '../../assets/project/weatherapp.jpg'
 import movieapp from '../../assets/project/movieapp.jpg'
 
@@ -23,11 +23,11 @@ export default function Project() {
       'back': 'https://github.com/SANKAR2167/be-movieapp'
     },
     {
-      'name': 'URL Shortner (MERN)',
-      'image': url,
-      'link': 'https://sankar-urlshortner.netlify.app',
-      'front': 'https://github.com/SANKAR2167/FE--url-shortner.git',
-      'back': 'https://github.com/SANKAR2167/BE---url-shortner.git'
+      'name': 'Blog App (MERN)',
+      'image': blog,
+      'link': 'https://sankar-blogapp.netlify.app/',
+      'front': 'https://github.com/SANKAR2167/fe-blogapp.git',
+      'back': 'https://github.com/SANKAR2167/be-blogapp.git'
     },
     {
       'name': 'Weather App (MERN)',
